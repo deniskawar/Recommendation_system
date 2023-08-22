@@ -1,5 +1,5 @@
-Recommendation system
+<h3> Recommendation system </h3>
 
-The service provides posts recommendations to users in their feeds
-It has got 2 models: a catboost model and a neural network
-I used FastApi, SQLAlchemy
+<p>The service provides posts recommendations to users in their feeds </p>
+<p>It has got 2 models: a catboost model and a neural network </p>
+<p>I used FastApi, SQLAlchemy </p>
